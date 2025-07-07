@@ -1,5 +1,5 @@
 # Material curso Computación Ubicua y Optativa
-**Guía Técnica:** *Comunicación MQTT con ESP32, Sensor DHT11 y Pantalla OLED en Windows*
+**Guía Técnica:** *Electronica Basica, practicas con arduino UNO, ensamblaje de multibot*
 
 ## Índice
 
