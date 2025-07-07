@@ -1,11 +1,6 @@
 # Material Computación Ubicua
 
-## Guía Técnica
-
-**Temas:**
-- Electrónica Básica  
-- Prácticas con Arduino UNO  
-- Ensamblaje de Multibot
+**Guía Técnica:** Electrónica Básica, prácticas con Arduino UNO, ensamblaje de multibot
 
 ---
 
@@ -18,24 +13,37 @@
 
 ## 1. Reconociendo Git – GitHub – GitLab
 
-Revisar los siguientes recursos:
+### Recursos recomendados:
 
-- 📄 Artículo informativo:  
-  [GitLab vs GitHub - Kinsta](https://kinsta.com/es/blog/gitlab-vs-github/)
+- 📄 **Artículo:**  
+  [GitLab vs GitHub – Comparativa](https://kinsta.com/es/blog/gitlab-vs-github/)
 
-- 🎥 Videos explicativos:  
-  [Git y GitHub - YouTube](https://www.youtube.com/watch?v=Z6VM-Gp3OGw&list=PL-gX0xg7VLB-1O02yLPCBsPUZyV_c9Owg)
+- 🎥 **Videos explicativos sobre Git y GitHub:**  
+  [Ver en YouTube](https://www.youtube.com/watch?v=Z6VM-Gp3OGw&list=PL-gX0xg7VLB-1O02yLPCBsPUZyV_c9Owg)
 
 ---
 
 ## 2. Materiales para laboratorios
 
-- Asdsadsa safdsaf  
-- Asdfadsfdas f  
-- Sadf asdfdas  
+Los siguientes son los elementos requeridos para realizar los laboratorios del curso de Computación Ubicua:
 
-*(Contenido pendiente de edición o especificación adicional)*
+### Práctica 1:
+*(Incluir lista de materiales específicos aquí si están disponibles)*
+
+### Práctica 2:
+*(Incluir lista de materiales específicos aquí si están disponibles)*
 
 ---
 
-> 📌 Este repositorio contiene material educativo para apoyar las prácticas de Computación Ubicua, centrado en herramientas de control y desarrollo de hardware como Arduino UNO.
+## Canal de Videos y Proyectos GitHub – Arduino
+
+| Recurso | YouTube | GitHub |
+|--------|---------|--------|
+| **bitwiseAr** | [Ver Canal](https://www.youtube.com/watch?v=eBVvD85Ml2c&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2) | [Repositorio](https://github.com/bitwiseAr/Curso-Arduino-desde-cero) |
+| **Sergio A. Castaño Giraldo** | [Ver Canal](https://www.youtube.com/watch?v=RxIgT5uhSxw&list=PLF-qcfymUY4W3NrcHpmm5ersLcLYIOic3) | [Repositorio](https://github.com/sergioacg/Arduino_CAE) |
+
+---
+
+## Licencia
+
+Este material es de uso educativo y puede ser reutilizado y adaptado para fines académicos.
