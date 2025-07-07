@@ -16,7 +16,7 @@
 
 ## 1. Reconociendo GIT - GITHUB - GITLAB
 revisar los siguientes videos
-- Articulo con información. https://kinsta.com/es/blog/gitlab-vs-github/![image](https://github.com/user-attachments/assets/7e18d6ee-966e-48b1-9b88-91353fdeeca7)
+- Articulo con información. https://kinsta.com/es/blog/gitlab-vs-github/
 
 - https://www.youtube.com/watch?v=Z6VM-Gp3OGw&list=PL-gX0xg7VLB-1O02yLPCBsPUZyV_c9Owg
   
