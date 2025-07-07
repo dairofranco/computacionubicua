@@ -14,7 +14,7 @@
 9. [Código final completo con OLED](#9-código-final-completo-con-oled)  
 10. [Cuadro de resolución de problemas](#10-cuadro-de-resolución-de-problemas)
 
-## 1. Materiales necesarios
+## 1. Elementos requridos
 
 - ESP32 (ESP-WROOM-32)
 - Sensor DHT11 (temperatura y humedad)
