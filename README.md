@@ -14,6 +14,10 @@
 9. [Código final completo con OLED](#9-código-final-completo-con-oled)  
 10. [Cuadro de resolución de problemas](#10-cuadro-de-resolución-de-problemas)
 
+## 1. Reconociendo GIT - GITHUB - GIT
+revisar los siguientes videos
+- https://www.youtube.com/watch?v=Z6VM-Gp3OGw&list=PL-gX0xg7VLB-1O02yLPCBsPUZyV_c9Owg
+  
 ## 1. Elementos requridos
 
 - ESP32 (ESP-WROOM-32)
