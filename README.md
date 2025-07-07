@@ -19,3 +19,6 @@
 - ESP32 (ESP-WROOM-32)
 - Sensor DHT11 (temperatura y humedad)
 - Pantalla OLED I2C (SSD1306 128×64)
+
+- https://www.youtube.com/watch?v=Z6VM-Gp3OGw&list=PL-gX0xg7VLB-1O02yLPCBsPUZyV_c9Owg
+- 
