@@ -1,7 +1,4 @@
-# computacionubicua
 # Material curso Computación Ubicua y Optativa
-# Guía MQTT con ESP32, DHT11 y OLED en Windows
-
 **Guía Técnica:** *Comunicación MQTT con ESP32, Sensor DHT11 y Pantalla OLED en Windows*
 
 ## Índice
