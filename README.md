@@ -3,7 +3,7 @@
 
 ## Índice
 
-1. [Materiales necesarios](#1-materiales-necesarios)  
+1. [Elementos requridos](#1-elementos-requridos)  
 2. [Configurar Arduino IDE en Windows](#2-configurar-arduino-ide-en-windows)  
 3. [Instalar librerías necesarias](#3-instalar-librerías-necesarias)  
 4. [Conexiones de hardware](#4-conexiones-de-hardware)  
