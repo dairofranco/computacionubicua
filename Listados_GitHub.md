@@ -9,7 +9,7 @@
 - Deysimar Alejandra Morales Arboleda	https://github.com/Deysimar04/COMPUTACION-UBICUA 
 - Diego Alejandro Carrasquilla Bravo	https://github.com/Diego-Carrasquilla 
 - Eilin Alexandra Carrillo Quintero	https://github.com/EilinCarrillo 
-- Jhon Mario Carvajal Delgado	LonelyDeceive/computacionUbicua 
+- Jhon Mario Carvajal Delgado	https://github.com/LonelyDeceive/computacionUbicua
 - Juan David Bolivar Herrera	https://github.com/Juan-David-Bolivar 
 - Juan Diego Castrillon Casas	https://github.com/JuanD-777 
 - Juan Pablo Marín Cadavid	https://github.com/pablooc22 
