@@ -1,4 +1,4 @@
-// Definición de pines
+// Definición de pines_
 #define BUTTON_PIN 0
 #define LED_PIN 1
 
