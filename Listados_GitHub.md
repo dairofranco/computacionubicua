@@ -1,7 +1,5 @@
-# Material Computación Ubicua
+# Listado de estudiantes 2610
 
-**Guía Técnica:** Electrónica Básica, prácticas con Arduino UNO, ensamblaje de multibot
-Nombre Completo	URL
 - Andres Felipe Jaramillo Larraniaga	https://github.com/Jaraagb 
 - Andres Mauricio Henao Gomez	https://github.com/MauroHenao-G
 - Arturo  Del Valle Zora	https://github.com/atzyd 
@@ -15,12 +13,12 @@ Nombre Completo	URL
 - Juan David Bolivar Herrera	https://github.com/Juan-David-Bolivar 
 - Juan Diego Castrillon Casas	https://github.com/JuanD-777 
 - Juan Pablo Marín Cadavid	https://github.com/pablooc22 
-- Juan Pablo Restrepo Correa	GitHub 
+- Juan Pablo Restrepo Correa	https://github.com/pablocor21
 - Juan Sebastian Rodriguez Aldana	https://github.com/JuanINGSOFTWARE
 - Julian  Guevara Montoya	https://github.com/julian11gm  
 - Karla  Vargas Hernandez	https://github.com/KVH14/Computacion_Ubicua 
 - Keisy Cristal Machado Caicedo	https://github.com/keisymachado 
-- Ronald  Garcia Munoz	RONALD-GM · GitHub 
+- Ronald  Garcia Munoz	https://github.com/RONALD-GM
 - Santiago  Rojas Miranda	https://github.com/romy32 
 - Simon  Vargas Toro	https://github.com/Saimon1704-VT 
 - Steven  Muñoz Vargas	https://github.com/tiven10 
