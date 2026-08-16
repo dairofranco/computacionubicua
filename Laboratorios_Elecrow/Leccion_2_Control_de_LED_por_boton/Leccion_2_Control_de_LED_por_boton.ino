@@ -30,15 +30,15 @@ bool allOn = false;
 // Bandera de anti-rebote para evitar activaciones múltiples
 bool keyIsPressed = false;
 
-// Median filter function (sample 5 times and return the median value)
+// Función de filtro de mediana (toma 5 muestras y devuelve el valor central)
 int readMedianADC(int pin) {
   int readings[5];
   for (int i = 0; i < 5; i++) {
     readings[i] = analogRead(pin);
-    delay(3); // Small delay between samples
+    delay(3); // Pequeño retraso entre muestras
   }
   
-  // Bubble sort to find median
+  // Ordenamiento de burbuja para encontrar la mediana
   for (int i = 0; i < 4; i++) {
     for (int j = i + 1; j < 5; j++) {
       if (readings[i] > readings[j]) {
@@ -49,19 +49,19 @@ int readMedianADC(int pin) {
     }
   }
   
-  return readings[2]; // Return the median value
+  return readings[2]; // Devuelve el valor de la mediana
 }
 
 void setup() {
-  Serial.begin(115200); // Initialize serial communication
+  Serial.begin(115200); // Inicializa comunicación serial
   
-  // Configure LED pins as outputs
+  // Configura pines de LEDs como salidas
   pinMode(Red_LED, OUTPUT);
   pinMode(Yellow_LED, OUTPUT);
   pinMode(Green_LED, OUTPUT);
-  pinMode(Button_pin, INPUT); // Configure button pin as input
+  pinMode(Button_pin, INPUT); // Configura pin del botón como entrada
   
-  // Initialize LEDs to OFF state
+  // Inicializa LEDs apagados
   digitalWrite(Red_LED, LOW);
   digitalWrite(Yellow_LED, LOW);
   digitalWrite(Green_LED, LOW);
@@ -70,7 +70,7 @@ void setup() {
 }
 
 void loop() {
-  int adcValue = readMedianADC(Button_pin); // Read ADC value with median filter
+  int adcValue = readMedianADC(Button_pin); // falta Read ADC value with median filter
   Serial.print("ADC: ");
   Serial.println(adcValue); // Print ADC value for debugging
   
