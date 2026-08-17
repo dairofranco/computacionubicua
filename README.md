@@ -2,6 +2,60 @@
 
 **Guía Técnica:** Electrónica Básica, prácticas con Arduino UNO, ensamblaje de multibot
 
+---
+
+## Contenido
+
+1. [Reconociendo Git – GitHub – GitLab](#1-reconociendo-git--github--gitlab)  
+2. [Materiales para laboratorios](#2-materiales-para-laboratorios)  
+3. [Canal de Videos - GitHub proyectos Arduino](#3-Canal-de-Videos---GitHub-proyectos-Arduino)  
+4. [IDEs-Simuladores-Herramientas](#4-IDE-Simuladores-Herramientas)  
+[Referencias](#referencias)  
+
+---
+
+## 1. Reconociendo Git – GitHub – GitLab
+
+Revisar los siguientes recursos:
+
+- Artículo: [GitLab vs GitHub - Diferencias y Similitudes](https://kinsta.com/es/blog/gitlab-vs-github/) (Ravoof, 2021)  
+- Videos explicativos sobre Git y GitHub:  
+  [Playlist de YouTube](https://www.youtube.com/watch?v=Z6VM-Gp3OGw&list=PL-gX0xg7VLB-1O02yLPCBsPUZyV_c9Owg) (Developeando, 2020)
+
+---
+
+## 2. Materiales para laboratorios
+
+Estos son los elementos requeridos para realizar los laboratorios del curso de Computación Ubicua:
+
+- **Práctica 1:**  
+  *(Especificar materiales requeridos)*
+
+- **Práctica 2:**  
+  *(Especificar materiales requeridos)*
+
+---
+
+## 3. Canal de Videos - GitHub proyectos Arduino
+
+**Autor:** Sergio A. Castaño Giraldo / bitwiseAr
+
+### YouTube
+
+- [Arduino desde cero en Español](https://www.youtube.com/watch?v=eBVvD85Ml2c&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2) (Bitwise Ar, 2017)  
+- [Curso Arduino desde cero](https://www.youtube.com/watch?v=RxIgT5uhSxw&list=PLF-qcfymUY4W3NrcHpmm5ersLcLYIOic3) (Castaño Giraldo, 2018)
+
+### GitHub
+
+- [bitwiseAr/Curso-Arduino-desde-cero](https://github.com/bitwiseAr/Curso-Arduino-desde-cero) (bitwiseAr, 2017/2025)  
+- [sergioacg/Arduino_CAE](https://github.com/sergioacg/Arduino_CAE) (Giraldo, 2021/2023)
+
+---
+
+## 4. IDE-Simuladores-Herramientas
+
+**Herraminetas para laboratorios** 
+
 
 
 
@@ -44,54 +98,6 @@ Página de ingreso
 https://la.mathworks.com/
 <img width="2000" height="332" alt="image" src="https://github.com/user-attachments/assets/9def99c2-ae0f-463f-88f7-e7fecc1765fe" />
 
----
-
-## Contenido
-
-1. [Reconociendo Git – GitHub – GitLab](#1-reconociendo-git--github--gitlab)  
-2. [Materiales para laboratorios](#2-materiales-para-laboratorios)  
-3. [Canal de Videos - GitHub proyectos Arduino](#canal-de-videos---github-proyectos-arduino)  
-4. [Referencias](#referencias)  
-
----
-
-## 1. Reconociendo Git – GitHub – GitLab
-
-Revisar los siguientes recursos:
-
-- Artículo: [GitLab vs GitHub - Diferencias y Similitudes](https://kinsta.com/es/blog/gitlab-vs-github/) (Ravoof, 2021)  
-- Videos explicativos sobre Git y GitHub:  
-  [Playlist de YouTube](https://www.youtube.com/watch?v=Z6VM-Gp3OGw&list=PL-gX0xg7VLB-1O02yLPCBsPUZyV_c9Owg) (Developeando, 2020)
-
----
-
-## 2. Materiales para laboratorios
-
-Estos son los elementos requeridos para realizar los laboratorios del curso de Computación Ubicua:
-
-- **Práctica 1:**  
-  *(Especificar materiales requeridos)*
-
-- **Práctica 2:**  
-  *(Especificar materiales requeridos)*
-
----
-
-## Canal de Videos - GitHub proyectos Arduino
-
-**Autor:** Sergio A. Castaño Giraldo / bitwiseAr
-
-### YouTube
-
-- [Arduino desde cero en Español](https://www.youtube.com/watch?v=eBVvD85Ml2c&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2) (Bitwise Ar, 2017)  
-- [Curso Arduino desde cero](https://www.youtube.com/watch?v=RxIgT5uhSxw&list=PLF-qcfymUY4W3NrcHpmm5ersLcLYIOic3) (Castaño Giraldo, 2018)
-
-### GitHub
-
-- [bitwiseAr/Curso-Arduino-desde-cero](https://github.com/bitwiseAr/Curso-Arduino-desde-cero) (bitwiseAr, 2017/2025)  
-- [sergioacg/Arduino_CAE](https://github.com/sergioacg/Arduino_CAE) (Giraldo, 2021/2023)
-
----
 
 ## Referencias
 
