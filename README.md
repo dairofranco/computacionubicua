@@ -1,6 +1,7 @@
 # Material Computación Ubicua
 
 **Guía Técnica:** Electrónica Básica, prácticas con Arduino UNO, ensamblaje de multibot
+<img width="509" height="104" alt="image" src="https://github.com/user-attachments/assets/8fd6561f-0b65-4d8c-962d-822e8368179d" />
 
 ---
 
