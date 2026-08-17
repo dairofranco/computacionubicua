@@ -3,6 +3,50 @@
 **Guía Técnica:** Electrónica Básica, prácticas con Arduino UNO, ensamblaje de multibot
 <img width="509" height="104" alt="image" src="https://github.com/user-attachments/assets/8fd6561f-0b65-4d8c-962d-822e8368179d" />
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Página de ingreso
+https://app.arduino.cc/
+
+Página de ingreso
+https://github.com/login
+https://github.com/dairofranco/computacionubicua
+
+Página de ingreso
+https://www.tinkercad.com/dashboard
+
+Página de ingreso
+https://velxio.dev/editor
+
+Página de ingreso
+https://wokwi.com/dashboard/projects
+
+Página de ingreso
+https://la.mathworks.com/
+<img width="2000" height="332" alt="image" src="https://github.com/user-attachments/assets/9def99c2-ae0f-463f-88f7-e7fecc1765fe" />
+
 ---
 
 ## Contenido
