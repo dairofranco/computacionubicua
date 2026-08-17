@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=BWhup75svIk&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1v
  
  
 - Simulador Tinkercad: https://www.tinkercad.com/things/iCGHe30TfKX-capitulo-3-entradassalidas-digitales-con-pulsador-y-led
-- Simulador Velxio: 
+- Simulador Velxio: https://velxio.dev/dairofranco/captulo-3-entradassalidas-digitales-con-pulsador-y-led
 - Simulador Wokwi: 
 
 ---
