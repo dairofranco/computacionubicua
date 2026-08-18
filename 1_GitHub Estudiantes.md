@@ -1,30 +1,30 @@
 # Listado de estudiantes 2620
 
-*	Alejandro  Hernandez Hoyos	
+*	Alejandro  Hernandez Hoyos	https://github.com/alejandrohernandezhoyos
 *	Bryam David Hernandez Peñuela	https://github.com/258ABCXYZ258
 *	Carlos Andrés Mendez Rodriguez	https://github.com/mendezcarlos7
 *	Daniel Andres Cogollo Marin	https://github.com/danielco07
 *	DARWIN STIVEN ARROYAVE RAMIREZ	https://github.com/DarwinAR
-*	DILAN ANDREY GOMEZ VIDAL	
+*	DILAN ANDREY GOMEZ VIDAL	https://github.com/DilanGomez
 *	Jacob  Grisales Agudelo	https://github.com/jga8473493
-*	Jesus Ariel Geliz Nuñez	
+*	Jesus Ariel Geliz Nuñez	https://github.com/JesusGeliz
 *	Jhon Heber Lopez Cartagena	https://github.com/jhonlc1
 *	Juan Camilo Henao Rubio	https://github.com/juanhenao234
-*	Juan Pablo Montealegre Martinez	
+*	Juan Pablo Montealegre Martinez	https://github.com/Juanpablo-913
 *	Levinson  Mosquera García	
 *	Manuel Alejandro Abad Tejada	https://github.com/Manueloch01
 *	Martin  Garay Morales	https://github.com/M4R7Uu
 *	Mateo  Bustamante Giraldo	https://github.com/Mateogi0202
 *	Melina  Velasquez Ardila	https://github.com/ardilamelina8-blip
-*	Omar Yesith Villadiego Carrascal	
-*	Oscar Andres Rosero Arias	
+*	Omar Yesith Villadiego Carrascal	https://github.com/omaryesithvilladiego
+*	Oscar Andres Rosero Arias	https://github.com/oscardyrosero-design
 *	Santiago Andres Esparza Castro	https://github.com/StarDragonSD
 *	Simon  Restrepo Osorio	https://github.com/simon-svg294
 *	Camilo  Falla Pico	https://github.com/camilofalla924
 *	Daniel Esteban Luque Barrios	https://github.com/danielluquebarrios
 *	Daniel Stevent Padilla Arrieta	https://github.com/DanielPA2112
 *	Juan Pablo Quiroga Silva	https://github.com/juanqxd-hub
-*	Keyler Yasid Castro Ledezma	
+*	Keyler Yasid Castro Ledezma	https://github.com/keylercastro2005-debug
 
 
 # Listado de estudiantes 2610
