@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=ArvU6pEiQdA&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1v
      
         
 Simulador Tinkercad: https://www.tinkercad.com/things/l9hjqWWrQHa-capitulo-41-pwm-con-led-y-potenciometro-para-brillointensidad	Simulador Velxio: https://velxio.dev/project/f5462c67-8aac-40a9-a289-b94292864970
+
 Simulador Wokwi: https://wokwi.com/projects/473261856465286145
     	   
 ---
@@ -20,6 +21,7 @@ https://www.youtube.com/watch?v=ArvU6pEiQdA&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1v
   
         
 Simulador Tinkercad: https://www.tinkercad.com/things/85BnhOFM2H3-capitulo-42-pwm-con-led-y-potenciometro-para-brillointensida	Simulador Velxio: https://velxio.dev/dairofranco/capitulo-42-pwm-con-led-y-potenciometro-para-brillointensidad
+
 Simulador Wokwi: https://wokwi.com/projects/473262994549018625
     	
 ---
